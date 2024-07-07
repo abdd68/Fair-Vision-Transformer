@@ -5,15 +5,15 @@ The code of the paper "FairViT: Fair Vision Transformer via Adaptive Masking", t
 
 **Step 2**: Download the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the decompressed Anno, Eval and img_align_celeba in "../nfs3/datasets/celeba". The preferred file structure is:
 
-- nfs3/
-&emsp; datasets/
-&emsp; &emsp; celeba/
-&emsp; &emsp; &emsp; Anno/
-&emsp; &emsp; &emsp; Eval/
-&emsp; &emsp; &emsp; img_align_data/
-- FairViT/
+- nfs3/  
+&emsp; datasets/  
+&emsp; &emsp; celeba/  
+&emsp; &emsp; &emsp; Anno/  
+&emsp; &emsp; &emsp; Eval/  
+&emsp; &emsp; &emsp; img_align_data/  
+- FairViT/  
 &emsp; README.md  
-&emsp; ...
+&emsp; ...  
 
 **Step 3**: You can run the code by "python finetune_transformer.py" for debugging. To implement the default tasks in the paper, here are some quick commands:
 
