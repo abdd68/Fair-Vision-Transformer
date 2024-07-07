@@ -3,7 +3,7 @@ The code of the paper "FairViT: Fair Vision Transformer via Adaptive Masking", t
 
 **Step 1**: Create the conda environment through vit2024.yaml. The command is "conda env create -f vit2024.yaml".
 
-**Step 2**: Download the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the decompressed Anno, Eval and img_align_celeba in "../nfs3/datasets/celeba". The preferred file structure is:
+**Step 2**: Download the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the decompressed Anno, Eval and img_align_celeba in "../nfs3/datasets/celeba". The file structure should be:
 
 - nfs3/  
 &emsp; datasets/  
