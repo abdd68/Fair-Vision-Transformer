@@ -5,11 +5,11 @@ Step 1: Create the conda environment through vit2024.yaml. The command is "conda
 
 Step 2: Download the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the decompressed Anno, Eval and img_align_celeba in "../nfs3/datasets/celeba". The preferred file structure is:
 
-- nfs3 - datasets - celeba - Anno
-|                          - Eval
-|                          - img_align_data
-- FairViT - README.md
-          - ...
+- nfs3 - datasets - celeba - Anno  
+|                          - Eval  
+|                          - img_align_data  
+- FairViT - README.md  
+          - ...  
 
 Step 3: You can run the code by "python finetune_transformer.py" for debugging. To implement the default tasks in the paper, here are some quick commands:
 
