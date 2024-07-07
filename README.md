@@ -11,7 +11,7 @@ The code of the paper "FairViT: Fair Vision Transformer via Adaptive Masking", t
 &emsp; &emsp; &emsp; Anno/  
 &emsp; &emsp; &emsp; Eval/  
 &emsp; &emsp; &emsp; img_align_data/  
-- FairViT/  
+- Fair-Vision-Transformer/  
 &emsp; README.md  
 &emsp; ...  
 
