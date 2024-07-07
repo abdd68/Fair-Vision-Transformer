@@ -5,9 +5,9 @@ Step 1: Create the conda environment through vit2024.yaml. The command is "conda
 
 Step 2: Download the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and place the decompressed Anno, Eval and img_align_celeba in "../nfs3/datasets/celeba". The preferred file structure is:
 
-- nfs3 - datasets - celeba - Anno  
-|                          - Eval  
-|                          - img_align_data  
+- nfs3 - datasets - celeba &- Anno  
+|                          &- Eval  
+|                          &- img_align_data  
 - FairViT - README.md  
           - ...  
 
