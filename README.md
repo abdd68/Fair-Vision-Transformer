@@ -1,5 +1,5 @@
 # FairViT: Fair Vision Transformer via Adaptive Masking
-The code of the paper "FairViT: Fair Vision Transformer via Adaptive Masking", this paper will appear at ECCV 2024.
+The code of the paper [FairViT: Fair Vision Transformer via Adaptive Masking](https://arxiv.org/abs/2407.14799), this paper will appear at ECCV 2024.
 
 **Step 1**: Create the conda environment through vit2024.yaml. The command is 
 ```python
